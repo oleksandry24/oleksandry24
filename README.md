@@ -1,16 +1,21 @@
-## Hi there 👋
+<div>
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250" alt="Terminal" />
+  
+  <h3><code>root@ukraa:~# whoami</code><br><code>> Oleksandr</code></h3>
 
-<!--
-**oleksandry24/oleksandry24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://media1.tenor.com/m/kduoyFO85ZEAAAAd/sad-the-point.gif" width="350" alt="Hacker GIF" />
+  
+  <p><i></i></p>
+  
+  <a href="https://www.linkedin.com/in/oleksandr-yarotskyi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### // System Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Base:** Coimbra, Portugal  
+**Focus:** Cybersecurity
+
+**Current State:** Rowing forwards, but with my back.
+> `aHR0cHM6Ly95b3V0dS5iZS9kUXc0dzlXZ1hjUQ==`
