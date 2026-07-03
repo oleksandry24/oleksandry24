@@ -1,10 +1,8 @@
+### Hi 👋
 <div>
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250" alt="Terminal" />
-  
-  <h3><code>root@ukraa:~# whoami</code><br><code>> Oleksandr</code></h3>
-
   <img src="https://media1.tenor.com/m/kduoyFO85ZEAAAAd/sad-the-point.gif" width="350" alt="Hacker GIF" />
   
+  <h3><code>root@ukraa:~# whoami</code><br><code>> Oleksandr</code></h3>  
   <p><i></i></p>
   
   <a href="https://www.linkedin.com/in/oleksandr-yarotskyi/">
