@@ -10,7 +10,7 @@
   </a>
 </div>
 
-### // System Status
+###
 
 **Base:** Coimbra, Portugal  
 **Focus:** Cybersecurity
