@@ -15,5 +15,4 @@
 **Base:** Coimbra, Portugal  
 **Focus:** Cybersecurity
 
-**Current State:** Rowing forwards, but with my back.
-> `aHR0cHM6Ly95b3V0dS5iZS9kUXc0dzlXZ1hjUQ==`
+**Current State:** `aHR0cHM6Ly95b3V0dS5iZS9kUXc0dzlXZ1hjUQ==`
